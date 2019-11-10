@@ -1,0 +1,7 @@
+Inspired by the 5-hypocycloid that can "roll" inside of a 6-hypocycloid (as shown in the GIF). To make the vase design, the z-axis takes the place of time for a rotation.
+
+If you look from the right angle down the z-axis, you can see the 6-hypocycloid that is swept out as the 5-hypocycloid moves vertically.
+
+Rolling animation and source code available on github.
+
+EDIT: I scaled the height up 50% to make the overhangs less problematic for printing.
